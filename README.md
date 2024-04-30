@@ -17,7 +17,7 @@
 
 ### 📽️ 시연영상
 
-https://github.com/Port8090/Port4045/assets/67898022/a8a3116f-d0eb-4c90-9329-0e008203b962
+https://github.com/DaSeul-Seo/Port4045/assets/67898022/2b5ced5c-610b-425b-aaf7-50b20c8976c5
 
 ### ✍️ 개발 목적 및 목표
 
